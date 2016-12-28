@@ -8,12 +8,14 @@ The list of our tiny thinking tools: from ideas to live to dead
 
 ## Doing
 
-* Spreadsheet.TV: view things one by one
+* Spreadsheet.TV: watch your spreadsheets, one time at a time
 
 ## Todo
 
 * Less / More: manifesto generator
 * EveryVoice: have better discussions
 * Otherwordly / Copybrighter: crazy inspiration for copywriters
-* DearTeddy: debug your life
+* DearTeddy: peer-to-peer life debugging (with emojis)
 * [Subconscious](https://github.com/GeorgeStrakhov/subconscious): your mad creative computing partner
+* Telescopic Brief
+* Instadeck: beautiful decks, one line per slide
